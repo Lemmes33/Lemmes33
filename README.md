@@ -2,12 +2,7 @@ Hi there! I'm Lemuel Vincent, a passionate Front-End Developer.😎
 
 **What I Do**
 
-😁I build user-friendly and visually stunning web experiences that keep users engaged. I'm constantly learning and pushing myself to become a better developer. Take a look at my projects below to see my skills in action‼
-
-**Currently Learning**
-
-* Sharpening my skills at Moringa School 🏤
-* Exploring new technologies and frameworks 🙂
+😁I build user-friendly and visually stunning web experiences that keep users engaged. Take a look at my projects below to see my skills in action‼
 
 **Looking for**
 
