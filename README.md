@@ -21,20 +21,12 @@ Hi there! I'm Lemuel Vincent, a passionate Front-End Developer.😎
 
 **Fun Fact**
 
- Did you know? Dolphins sometimes exhibit false pregnancy behavior to receive more attention from their partners!
+ Did you know? Dolphins sometimes fake their pregnancy to receive more attention from their partners!😂
 
 **My Projects**
 
 **one of my deployed project is:⏬
 * https://better-fit-7y3t.vercel.app/
-
-**Technologies I Use**
-
-* figma
-* html
-* js
-* css
-* React.js
 
 **Let's Build Something Awesome!**
 
