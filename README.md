@@ -26,7 +26,7 @@ Hi there! I'm Lemuel Vincent, a passionate Front-End Developer.😎
 **My Projects**
 
 **one of my deployed project is:⏬
-https://better-fit-7y3t.vercel.app/
+* https://better-fit-7y3t.vercel.app/
 
 **Technologies I Use**
 
