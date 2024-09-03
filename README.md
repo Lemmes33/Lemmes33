@@ -4,11 +4,6 @@ Hi there! I'm Lemuel Vincent, a passionate Front-End Developer.😎
 
 😁I build user-friendly and visually stunning web experiences that keep users engaged. Take a look at my projects below to see my skills in action‼
 
-**Looking for**
-
-* Challenging and collaborative projects to expand my skillset 🧠❓
-* Opportunities to contribute to open-source projects and learn from the community 
-
 **Connect With Me**
 
 * **Instagram:** [lemmycee._](https://www.instagram.com/lemmycee._/) 
