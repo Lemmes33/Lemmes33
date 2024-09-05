@@ -16,4 +16,3 @@ One of my deployed project is:⏬
 
 **Let's Build Something Awesome!**
 
-I'm always open to connecting and collaborating on new projects. Feel free to reach out if you have any questions or exciting ideas!
